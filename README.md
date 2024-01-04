@@ -11,3 +11,11 @@
 ---
 
 ## Hello Mari Selvan Hash
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
