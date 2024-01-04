@@ -2,4 +2,4 @@
 
 ![Hello world](https://codetofun.s3.ap-south-1.amazonaws.com/large/aws-cloudfront-cdn.webp)
 
-<img src="https://codetofun.s3.ap-south-1.amazonaws.com/large/aws-cloudfront-cdn.webp" width="100" height="100">
+<img src="https://codetofun.s3.ap-south-1.amazonaws.com/large/aws-cloudfront-cdn.webp" width="200" height="200">
